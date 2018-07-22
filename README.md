@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Hello There - Washiwa Ken-desu. Yoroshiku onegaishimasu! :)
+Hello There - Watashiwa Ken-desu. Yoroshiku onegaishimasu! :)
